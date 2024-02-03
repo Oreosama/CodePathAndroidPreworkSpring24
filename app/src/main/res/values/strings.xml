@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidDevSpring24Prework</string>
+    <string name="Min_intro">Hello World! I\'m Min and I love cats. I have worked with React Native and like to try out Android development for more native apps</string>
+    <string name="greeting">Say Hello!</string>
+</resources>
